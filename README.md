@@ -124,3 +124,5 @@ flutter run
 - https://archive.org/details/designpatternsel00gamm/page/20/mode/2up
 - https://dart.dev/language/mixins
 - https://betterprogramming.pub/how-to-implement-the-delegation-design-pattern-in-dart-d782de77c886
+- https://medium.com/@emanyaqoob/mixins-in-dart-aed7e89de15d
+
